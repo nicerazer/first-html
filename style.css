@@ -1,0 +1,16 @@
+/* Selector property value */
+h1 {
+    font-size: 4rem;
+    color: brown;
+}
+
+/* Class selector */
+.list {
+    padding: 4rem;
+}
+
+#important-list {
+    text-transform: uppercase;
+    background-color: burlywood;
+    font-size: 2rem;
+}
